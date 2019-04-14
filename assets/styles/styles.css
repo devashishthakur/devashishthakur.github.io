@@ -170,10 +170,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .experience-topics ul li {
+
 	list-style: none;
 	color: antiquewhite;
 	font-family: "Maven pro", sans-serif;
 	font-weight: 500;
+}
+
+.learning-topics ul li {
+
+	color: #738182;
+	list-style: none;
+	font-family: "Maven pro", sans-serif;
+	font-weight: 500;
+	font-size: 1.2em;
+
 }
 
 /*** work ***/
@@ -224,6 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 1.2em;
 	margin-bottom: 1.8em;
 }
+
 
 .details a, .details a:link, .details a:active{
 		color: rgba(255, 103, 68, 0.91);
